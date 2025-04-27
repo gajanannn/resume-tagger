@@ -1,0 +1,7 @@
+streamlit
+joblib
+PyMuPDF
+PyPDF2
+scikit-learn
+numpy
+pandas
